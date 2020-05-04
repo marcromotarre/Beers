@@ -10,7 +10,7 @@ const BeersListContainer = styled.section`
   align-items: center;
   width: 100%;
 
-  label {
+  > label {
     font-family: 'HelveticaNeue-Thin';
     font-size: 30px;
     color: red;
