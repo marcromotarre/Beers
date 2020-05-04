@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+button {
+  background: none;
+  border: none;
+}
+button:focus {
+  outline: 0;
+}

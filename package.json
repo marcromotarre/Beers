@@ -1,0 +1,43 @@
+{
+  "name": "beers_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      ".+\\.(svg)$": "<rootDir>/fileTransformations/FileTransformer.js"
+    }
+  },
+  "keywords": [],
+  "author": "Marc Romo",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.5.0",
+    "@testing-library/react": "^10.0.2",
+    "@testing-library/react-hooks": "^3.2.1",
+    "cross-fetch": "^3.0.4",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-react-svg": "^0.1.0",
+    "prettier": "^2.0.4",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^5.1.0"
+  },
+  "dependencies": {
+    "@reach/router": "^1.3.3",
+    "babel-polyfill": "^6.26.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

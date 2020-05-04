@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BrewedBetween Component Snapshots BrewedBetween Snapshots 1`] = `
+<body>
+  <div>
+    <section
+      class="sc-Axmtr jpHgIa"
+      data-testid="brewed-between-container"
+    >
+      <section
+        class="sc-AxmLO hshgKp"
+      >
+        <button
+          data-testid="calendar-month-year-view-2013-3"
+        >
+          <section
+            class="sc-AxjAm eKZXqA"
+          >
+            <div
+              class="sc-AxiKw euRTWC"
+              height="68.4931506849315px"
+              width="100px"
+            >
+              <div
+                class="sc-AxhUy hYaWOo"
+                data-testid="calendar-month-year-view-container"
+              >
+                <label
+                  class="sc-AxgMl gkdRyW"
+                >
+                  MARCH
+                </label>
+                <label
+                  class="sc-AxheI beNytf"
+                >
+                  2013
+                </label>
+              </div>
+            </div>
+            <svg
+              class="sc-AxirZ ktnnZK"
+              width="100"
+            />
+          </section>
+        </button>
+        <div
+          class="sc-fzozJi hXlPba"
+        >
+          <label>
+            brewed
+          </label>
+          <svg
+            width="28"
+          />
+          <label>
+            between
+          </label>
+        </div>
+        <button
+          data-testid="calendar-month-year-view-2017-5"
+        >
+          <section
+            class="sc-AxjAm eKZXqA"
+          >
+            <div
+              class="sc-AxiKw euRTWC"
+              height="68.4931506849315px"
+              width="100px"
+            >
+              <div
+                class="sc-AxhUy hYaWOo"
+                data-testid="calendar-month-year-view-container"
+              >
+                <label
+                  class="sc-AxgMl gkdRyW"
+                >
+                  MAY
+                </label>
+                <label
+                  class="sc-AxheI beNytf"
+                >
+                  2017
+                </label>
+              </div>
+            </div>
+            <svg
+              class="sc-AxirZ ktnnZK"
+              width="100"
+            />
+          </section>
+        </button>
+      </section>
+    </section>
+  </div>
+</body>
+`;

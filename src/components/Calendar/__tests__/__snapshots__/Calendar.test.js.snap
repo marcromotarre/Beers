@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calendar Component Snapshots Calendar Snapshots 1`] = `
+<section
+  className="sc-AxjAm eKZXqA"
+>
+  <div
+    className="sc-AxiKw euRTWC"
+    height="68.4931506849315px"
+    width="100px"
+  >
+    <label>
+      Calendar Info
+    </label>
+  </div>
+  <svg
+    className="sc-AxirZ ktnnZK"
+    width={100}
+  />
+</section>
+`;

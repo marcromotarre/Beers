@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarMonthYearView Component Snapshots CalendarMonthYearView Snapshots 1`] = `
+<section
+  className="sc-AxjAm eKZXqA"
+>
+  <div
+    className="sc-AxiKw euRTWC"
+    height="68.4931506849315px"
+    width="100px"
+  >
+    <div
+      className="sc-AxhCb hmAOOJ"
+      data-testid="calendar-month-year-view-container"
+    >
+      <label
+        className="sc-AxhUy jgGAZg"
+      >
+        SEPTEMBER
+      </label>
+      <label
+        className="sc-AxgMl cxvnSJ"
+      >
+        2017
+      </label>
+    </div>
+  </div>
+  <svg
+    className="sc-AxirZ ktnnZK"
+    width={100}
+  />
+</section>
+`;
+
+exports[`CalendarMonthYearView Component Snapshots CalendarMonthYearView Snapshots 2`] = `
+<section
+  className="sc-AxjAm eKZXqA"
+>
+  <div
+    className="sc-AxiKw euRTWC"
+    height="68.4931506849315px"
+    width="100px"
+  >
+    <div
+      className="sc-AxhCb hmAOOJ"
+      data-testid="calendar-month-year-view-container"
+    >
+      <label
+        className="sc-AxhUy jgGAZg"
+      >
+        SEPTEMBER
+      </label>
+    </div>
+  </div>
+  <svg
+    className="sc-AxirZ ktnnZK"
+    width={100}
+  />
+</section>
+`;
+
+exports[`CalendarMonthYearView Component Snapshots CalendarMonthYearView Snapshots 3`] = `
+<section
+  className="sc-AxjAm eKZXqA"
+>
+  <div
+    className="sc-AxiKw euRTWC"
+    height="68.4931506849315px"
+    width="100px"
+  >
+    <div
+      className="sc-AxhCb hmAOOJ"
+      data-testid="calendar-month-year-view-container"
+    >
+      <label
+        className="sc-AxgMl cxvnSJ"
+      >
+        2017
+      </label>
+    </div>
+  </div>
+  <svg
+    className="sc-AxirZ ktnnZK"
+    width={100}
+  />
+</section>
+`;

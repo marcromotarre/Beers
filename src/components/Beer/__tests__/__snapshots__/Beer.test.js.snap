@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Beer Component tests render Beer Snapshot 1`] = `
+<section
+  className="sc-AxjAm bUvDUz"
+  data-testid="beer-container"
+>
+  <div
+    className="sc-AxirZ jpzzvO"
+  >
+    <div
+      className="sc-AxiKw jQbrpK"
+    >
+      <h1>
+        beer name
+      </h1>
+      <h2>
+        this is a goog beer
+      </h2>
+      <p>
+        this is a description
+      </p>
+    </div>
+    <div
+      className="sc-AxhCb elVgfx"
+    >
+      <label>
+        brewed:
+      </label>
+      <p>
+        08/2012
+      </p>
+    </div>
+  </div>
+  <div
+    className="sc-AxhUy iTCOqd"
+  >
+    <img
+      src="image_url"
+    />
+  </div>
+</section>
+`;

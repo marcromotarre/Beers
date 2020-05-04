@@ -1,0 +1,258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component Snapshots Home Snapshots 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzoyAV jHhSSh"
+      data-testid="home-container"
+    >
+      <section
+        class="sc-fzokOt eyyxQb"
+        data-testid="brewed-between-container"
+      >
+        <section
+          class="sc-fzqBZW esvDpU"
+        >
+          <button
+            data-testid="calendar-month-year-view-2007-9"
+          >
+            <section
+              class="sc-fzozJi hiluBJ"
+            >
+              <div
+                class="sc-fzpans hSeYyq"
+                height="68.4931506849315px"
+                width="100px"
+              >
+                <div
+                  class="sc-fznyAO WMTwo"
+                  data-testid="calendar-month-year-view-container"
+                >
+                  <label
+                    class="sc-fznKkj hFPand"
+                  >
+                    SEPTEMBER
+                  </label>
+                  <label
+                    class="sc-fznZeY idMIqi"
+                  >
+                    2007
+                  </label>
+                </div>
+              </div>
+              <svg
+                class="sc-fzoLsD fqEnxe"
+                width="100"
+              />
+            </section>
+          </button>
+          <div
+            class="sc-fzqNJr gdryOv"
+          >
+            <label>
+              brewed
+            </label>
+            <svg
+              width="28"
+            />
+            <label>
+              between
+            </label>
+          </div>
+          <button
+            data-testid="calendar-month-year-view-2015-11"
+          >
+            <section
+              class="sc-fzozJi hiluBJ"
+            >
+              <div
+                class="sc-fzpans hSeYyq"
+                height="68.4931506849315px"
+                width="100px"
+              >
+                <div
+                  class="sc-fznyAO WMTwo"
+                  data-testid="calendar-month-year-view-container"
+                >
+                  <label
+                    class="sc-fznKkj hFPand"
+                  >
+                    NOVEMBER
+                  </label>
+                  <label
+                    class="sc-fznZeY idMIqi"
+                  >
+                    2015
+                  </label>
+                </div>
+              </div>
+              <svg
+                class="sc-fzoLsD fqEnxe"
+                width="100"
+              />
+            </section>
+          </button>
+        </section>
+      </section>
+      <section
+        class="sc-AxmLO hOHgZI"
+        data-testid="beers-list-container"
+      >
+        <section
+          class="sc-AxiKw gRdjzo"
+          data-testid="beer-container"
+        >
+          <div
+            class="sc-AxhCb cxbxdi"
+          >
+            <div
+              class="sc-AxhUy iqRDDD"
+            >
+              <h1>
+                Buzz
+              </h1>
+              <h2>
+                A Real Bitter Experience.
+              </h2>
+              <p>
+                A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.
+              </p>
+            </div>
+            <div
+              class="sc-AxgMl coxPBi"
+            >
+              <label>
+                brewed:
+              </label>
+              <p>
+                09/2007
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-AxheI foprKJ"
+          >
+            <img
+              src="https://images.punkapi.com/v2/keg.png"
+            />
+          </div>
+        </section>
+        <section
+          class="sc-AxiKw gRdjzo"
+          data-testid="beer-container"
+        >
+          <div
+            class="sc-AxhCb cxbxdi"
+          >
+            <div
+              class="sc-AxhUy iqRDDD"
+            >
+              <h1>
+                Trashy Blonde
+              </h1>
+              <h2>
+                You Know You Shouldn't
+              </h2>
+              <p>
+                A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.
+              </p>
+            </div>
+            <div
+              class="sc-AxgMl coxPBi"
+            >
+              <label>
+                brewed:
+              </label>
+              <p>
+                04/2008
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-AxheI foprKJ"
+          >
+            <img
+              src="https://images.punkapi.com/v2/2.png"
+            />
+          </div>
+        </section>
+        <section
+          class="sc-AxiKw gRdjzo"
+          data-testid="beer-container"
+        >
+          <div
+            class="sc-AxhCb cxbxdi"
+          >
+            <div
+              class="sc-AxhUy iqRDDD"
+            >
+              <h1>
+                Berliner Weisse With Yuzu - B-Sides
+              </h1>
+              <h2>
+                Japanese Citrus Berliner Weisse.
+              </h2>
+              <p>
+                Japanese citrus fruit intensifies the sour nature of this German classic.
+              </p>
+            </div>
+            <div
+              class="sc-AxgMl coxPBi"
+            >
+              <label>
+                brewed:
+              </label>
+              <p>
+                11/2015
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-AxheI foprKJ"
+          >
+            <img
+              src="https://images.punkapi.com/v2/keg.png"
+            />
+          </div>
+        </section>
+      </section>
+      <section
+        class="sc-AxjAm kMuvoV"
+        data-testid="pagination-container"
+      >
+        <button
+          disabled=""
+        />
+        <button
+          id="1"
+        >
+          <svg
+            class="sc-AxirZ iuEUCp"
+            height="60"
+          />
+          <label
+            class="selected"
+          >
+            1
+          </label>
+        </button>
+        <button
+          id="2"
+        >
+          <label
+            class=""
+          >
+            2
+          </label>
+        </button>
+        <button>
+          <svg
+            width="16.43"
+          />
+        </button>
+      </section>
+    </div>
+  </div>
+</body>
+`;

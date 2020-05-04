@@ -1,0 +1,391 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination Component Snapshots Pagination Snapshots 1`] = `
+<section
+  className="sc-AxjAm kMuvoV"
+  data-testid="pagination-container"
+>
+  <button
+    disabled={true}
+    onClick={[Function]}
+  />
+  <button
+    id={1}
+    onClick={[Function]}
+  >
+    <svg
+      className="sc-AxirZ iuEUCp"
+      height="60"
+    />
+    <label
+      className="selected"
+    >
+      1
+    </label>
+  </button>
+  <button
+    id={2}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      2
+    </label>
+  </button>
+  <button
+    id={3}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      3
+    </label>
+  </button>
+  <button
+    id={4}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      4
+    </label>
+  </button>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+</section>
+`;
+
+exports[`Pagination Component Snapshots Pagination Snapshots 2`] = `
+<section
+  className="sc-AxjAm kMuvoV"
+  data-testid="pagination-container"
+>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+  <button
+    id={1}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      1
+    </label>
+  </button>
+  <button
+    id={2}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      2
+    </label>
+  </button>
+  <button
+    id={3}
+    onClick={[Function]}
+  >
+    <svg
+      className="sc-AxirZ iuEUCp"
+      height="60"
+    />
+    <label
+      className="selected"
+    >
+      3
+    </label>
+  </button>
+  <button
+    id={4}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      4
+    </label>
+  </button>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+</section>
+`;
+
+exports[`Pagination Component Snapshots Pagination Snapshots 3`] = `
+<section
+  className="sc-AxjAm kMuvoV"
+  data-testid="pagination-container"
+>
+  <button
+    disabled={true}
+    onClick={[Function]}
+  />
+  <button
+    id={1}
+    onClick={[Function]}
+  >
+    <svg
+      className="sc-AxirZ iuEUCp"
+      height="60"
+    />
+    <label
+      className="selected"
+    >
+      1
+    </label>
+  </button>
+  <button
+    id={2}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      2
+    </label>
+  </button>
+  <button
+    id={3}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      3
+    </label>
+  </button>
+  <button
+    id={4}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      4
+    </label>
+  </button>
+  <button
+    id={5}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      5
+    </label>
+  </button>
+  <div>
+    <svg
+      width={14}
+    />
+  </div>
+  <button
+    id={20}
+    onClick={[Function]}
+  >
+    <label>
+      20
+    </label>
+  </button>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+</section>
+`;
+
+exports[`Pagination Component Snapshots Pagination Snapshots 4`] = `
+<section
+  className="sc-AxjAm kMuvoV"
+  data-testid="pagination-container"
+>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+  <button
+    id={1}
+    onClick={[Function]}
+  >
+    <label>
+      1
+    </label>
+  </button>
+  <div>
+    <svg
+      width={14}
+    />
+  </div>
+  <button
+    id={9}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      9
+    </label>
+  </button>
+  <button
+    id={10}
+    onClick={[Function]}
+  >
+    <svg
+      className="sc-AxirZ iuEUCp"
+      height="60"
+    />
+    <label
+      className="selected"
+    >
+      10
+    </label>
+  </button>
+  <button
+    id={11}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      11
+    </label>
+  </button>
+  <div>
+    <svg
+      width={14}
+    />
+  </div>
+  <button
+    id={20}
+    onClick={[Function]}
+  >
+    <label>
+      20
+    </label>
+  </button>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+</section>
+`;
+
+exports[`Pagination Component Snapshots Pagination Snapshots 5`] = `
+<section
+  className="sc-AxjAm kMuvoV"
+  data-testid="pagination-container"
+>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    <svg
+      width={16.43}
+    />
+  </button>
+  <button
+    id={1}
+    onClick={[Function]}
+  >
+    <label>
+      1
+    </label>
+  </button>
+  <div>
+    <svg
+      width={14}
+    />
+  </div>
+  <button
+    id={16}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      16
+    </label>
+  </button>
+  <button
+    id={17}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      17
+    </label>
+  </button>
+  <button
+    id={18}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      18
+    </label>
+  </button>
+  <button
+    id={19}
+    onClick={[Function]}
+  >
+    <label
+      className=""
+    >
+      19
+    </label>
+  </button>
+  <button
+    id={20}
+    onClick={[Function]}
+  >
+    <svg
+      className="sc-AxirZ iuEUCp"
+      height="60"
+    />
+    <label
+      className="selected"
+    >
+      20
+    </label>
+  </button>
+  <button
+    disabled={true}
+    onClick={[Function]}
+  />
+</section>
+`;

@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataManager Component DataManager Snapshot 1`] = `
+<body>
+  <div>
+    <h1>
+      data correct
+    </h1>
+  </div>
+</body>
+`;
+
+exports[`DataManager Component DataManager Snapshot 2`] = `
+<body>
+  <div>
+    <h1>
+      data correct
+    </h1>
+  </div>
+  <div>
+    <div
+      class="sc-AxjAm kSkoow"
+    >
+      <img
+        alt="loading"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`DataManager Component DataManager Snapshot 3`] = `
+<body>
+  <div>
+    <h1>
+      data correct
+    </h1>
+  </div>
+  <div>
+    <div
+      class="sc-AxjAm kSkoow"
+    >
+      <img
+        alt="loading"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"
+      />
+    </div>
+  </div>
+  <div>
+    <div
+      class="sc-AxirZ klYqbc"
+    >
+      <label>
+        Error Loading Data
+      </label>
+    </div>
+  </div>
+</body>
+`;
