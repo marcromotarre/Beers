@@ -1,7 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import styled from 'styled-components';
-import BeerLoader from '../../assets/BeerLoader2.gif';
 
 const Loader = styled.div`
   width: 100%;

@@ -2,7 +2,7 @@
 
 exports[`Beer Component tests render Beer Snapshot 1`] = `
 <section
-  className="sc-AxheI dZbrxy"
+  className="sc-AxheI hcYtYY"
   data-testid="beers-list-container"
 >
   <section
@@ -205,7 +205,7 @@ exports[`Beer Component tests render Beer Snapshot 1`] = `
 
 exports[`Beer Component tests render Beer Snapshot 2`] = `
 <section
-  className="sc-AxheI dZbrxy"
+  className="sc-AxheI hcYtYY"
   data-testid="beers-list-container"
 >
   <label>
